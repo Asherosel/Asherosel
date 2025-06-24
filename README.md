@@ -1,7 +1,7 @@
 <h1 align="center">Erdem Karataş</h1>
 <h3 align="center">Management Information Systems Student</h3>
 
-<p align="center">🌱 I’m currently learning <b>Kotlin</b></p>
+<p align="center">🌱 I’m currently learning <b>React.js</b></p>
 
 <p align="center">📫 How to reach me <b>imerdemkaratas@gmail.com</b></p>
 
